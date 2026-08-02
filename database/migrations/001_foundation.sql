@@ -1,0 +1,17 @@
+-- =====================================================
+-- The Shyre
+-- Migration 001 - Foundation Schema
+--
+-- Initial production database schema.
+--
+-- Executed successfully in Supabase:
+-- August 2, 2026
+--
+-- This migration creates:
+-- - raw schema
+-- - canonical schema
+-- - audit schema
+--
+-- Source of truth:
+-- Supabase Production Database
+-- =====================================================
