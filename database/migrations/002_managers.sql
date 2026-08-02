@@ -1,0 +1,13 @@
+-- =====================================================
+-- The Shyre
+-- Migration 002 - Managers
+--
+-- Purpose:
+-- Prepare the managers layer and related constraints.
+--
+-- NOTE:
+-- Initial RMPC manager records will be imported from
+-- verified historical sources, not hard-coded here.
+-- =====================================================
+
+-- Reserved for future schema changes.
